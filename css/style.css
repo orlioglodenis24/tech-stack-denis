@@ -98,6 +98,7 @@
     font-size: 1rem;
     border: 1px solid blue;
     color: blue;
+    margin: 5px;
   }
   .btn.small:hover {
     border: 1px solid rgb(83, 83, 255);
